@@ -1,0 +1,37 @@
+
+  {
+    "type": "website",
+    "text": "https://zedscan.net/",
+    "url": "https://zedscan.net/"
+  },
+  {
+    "type": "coinmarketcap",
+    "text": "CoinMarketCap",
+    "url": "https://coinmarketcap.com/"
+  },
+  {
+    "type": "coingecko",
+    "text": "CoinGecko",
+    "url": "https://www.coingecko.com/"
+  },
+  {
+    "type": "email",
+    "text": "E-mail",
+    "url": "support@zedscan.net"
+  },
+  {
+    "type": "blog",
+    "text": "Blog",
+    "url": "#"
+  },
+  {
+    "type": "twitter",
+    "text": "Twitter",
+    "url": "https://twitter.com/zedcexe"
+  },
+  {
+    "type": "whitepaper",
+    "text": "Whitepaper",
+    "url": "#"
+  }
+]
