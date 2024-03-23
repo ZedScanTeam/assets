@@ -1,8 +1,3 @@
-#README
-1 - Token symbol: TokenAddress/logo.png
-2 - Links and Socials: TokenAddress/linksandsocials.json
-Example content:
-[
   {
     "type": "website",
     "text": "https://zedscan.net/",
