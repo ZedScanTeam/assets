@@ -6,12 +6,12 @@
   {
     "type": "coinmarketcap",
     "text": "CoinMarketCap",
-    "url": "https://coinmarketcap.com/currencies/usdz/"
+    "url": "https://coinmarketcap.com/currencies/zedxion/"
   },
   {
     "type": "coingecko",
     "text": "CoinGecko",
-    "url": "https://www.coingecko.com/en/coins/zedxion-usdz"
+    "url": "https://www.coingecko.com/en/coins/zedxion"
   },
   {
     "type": "email",
