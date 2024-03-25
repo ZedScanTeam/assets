@@ -1,1 +1,37 @@
-
+[
+  {
+    "type": "website",
+    "text": "https://zedscan.net/",
+    "url": "https://zedscan.net/"
+  },
+  {
+    "type": "coinmarketcap",
+    "text": "CoinMarketCap",
+    "url": "https://coinmarketcap.com/currencies/tezos/"
+  },
+  {
+    "type": "coingecko",
+    "text": "CoinGecko",
+    "url": "https://www.coingecko.com/"
+  },
+  {
+    "type": "email",
+    "text": "E-mail",
+    "url": "exampleabc@gmail.com"
+  },
+  {
+    "type": "blog",
+    "text": "Blog",
+    "url": "#"
+  },
+  {
+    "type": "twitter",
+    "text": "Twitter",
+    "url": "https://twitter.com/"
+  },
+  {
+    "type": "whitepaper",
+    "text": "Whitepaper",
+    "url": "#"
+  }
+]
