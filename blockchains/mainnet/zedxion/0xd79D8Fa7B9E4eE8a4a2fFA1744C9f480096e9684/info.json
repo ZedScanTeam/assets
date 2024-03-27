@@ -1,42 +1,42 @@
  {
-   "Token symbol", "0xd79D8Fa7B9E4eE8a4a2fFA1744C9f480096e9684/logo.png"
+   "Token symbol", "0xd79D8Fa7B9E4eE8a4a2fFA1744C9f480096e9684/logo.png",
 },
   {
-    "Links and Socials", "0xd79D8Fa7B9E4eE8a4a2fFA1744C9f480096e9684/linksandsocials.json"
+    "Links and Socials", "0xd79D8Fa7B9E4eE8a4a2fFA1744C9f480096e9684/linksandsocials.json",
 [
   {
     "type": "website",
     "text": "Tether",
-    "url": "https://tether.to/"
+    "url": "https://tether.to/",
   },
   {
     "type": "coinmarketcap",
     "text": "CoinMarketCap",
-    "url": "https://coinmarketcap.com/currencies/tether/"
+    "url": "https://coinmarketcap.com/currencies/tether/",
   },
   {
     "type": "coingecko",
     "text": "CoinGecko",
-    "url": "https://www.coingecko.com/en/coins/tether"
+    "url": "https://www.coingecko.com/en/coins/tether",
   },
   {
     "type": "email",
     "text": "E-mail",
-    "url": "support@zedscan.net"
+    "url": "support@zedscan.net",
   },
   {
     "type": "Telegram",
     "text": "Telegram",
-    "url": "https://t.me/OfficialTether/"
+    "url": "https://t.me/OfficialTether/",
   },
   {
     "type": "twitter",
     "text": "Twitter",
-    "url": "https://twitter.com/tether_to/"
+    "url": "https://twitter.com/tether_to/",
   },
   {
     "type": "whitepaper",
     "text": "Whitepaper",
-    "url": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf/"
+    "url": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf/",
   }
 ]
