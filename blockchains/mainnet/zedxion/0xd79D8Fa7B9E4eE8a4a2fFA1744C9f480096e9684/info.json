@@ -1,8 +1,11 @@
  {
    "Token symbol", "0xd79D8Fa7B9E4eE8a4a2fFA1744C9f480096e9684/logo.png",
+   "text": "Contract",
+    "url": "https://zedscan.net/token/0xd79D8Fa7B9E4eE8a4a2fFA1744C9f480096e9684",
 },
   {
     "Links and Socials", "0xd79D8Fa7B9E4eE8a4a2fFA1744C9f480096e9684/linksandsocials.json",
+    "text": "Socials",
 [
   {
     "type": "website",
