@@ -1,1 +1,37 @@
-
+[
+  {
+    "type": "website",
+    "text": "https://zedscan.net/",
+    "url": "https://zedscan.net/"
+  },
+  {
+    "type": "coinmarketcap",
+    "text": "CoinMarketCap",
+    "url": "https://coinmarketcap.com/currencies/tether-usd-bridged-zed20-usdt/"
+  },
+  {
+    "type": "coingecko",
+    "text": "CoinGecko",
+    "url": "https://www.coingecko.com/"
+  },
+  {
+    "type": "email",
+    "text": "E-mail",
+    "url": "support@zedscan.net"
+  },
+  {
+    "type": "helpcenter",
+    "text": "helpcenter",
+    "url": "https://zedxion.zendesk.com/hc/en-gb/categories/22833532469393-ZedScan-ZED20"
+  },
+  {
+    "type": "twitter",
+    "text": "Twitter",
+    "url": "https://twitter.com/zedxionc"
+  },
+  {
+    "type": "whitepaper",
+    "text": "Whitepaper",
+    "url": "https://docs.zedscan.net/general-1/network-details"
+  }
+]
