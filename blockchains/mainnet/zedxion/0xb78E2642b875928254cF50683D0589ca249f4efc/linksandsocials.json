@@ -10,9 +10,9 @@
     "url": "https://coinmarketcap.com/currencies/tether-usd-bridged-zed20-usdt/"
   },
   {
-    "type": "coingecko",
-    "text": "CoinGecko",
-    "url": "https://www.coingecko.com/"
+    "type": "Dex Exchange",
+    "text": "ZedDex",
+    "url": "https://www.zeddex.com/"
   },
   {
     "type": "email",
