@@ -1,1 +1,21 @@
-
+{
+    "name": "USD Coin Bridged ZED20",
+    "website": "https://zedscan.net",
+    "description": "ZedScan Block Explorer ZedScan is an independent block explorer unrelated to other service providers (unless stated explicitly otherwise) and is therefore unable to provide a precise response for inquiries that are specific to other service providers.",
+    "explorer": "https://bscscan.com/token/0x40f85D6040dF96ea14cD41142bcd244E14CF76f6",
+    "type": "BEP20",
+    "symbol": "USDC.z",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x40f85D6040dF96ea14cD41142bcd244E14CF76f6",
+        "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zedxionc"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/usd-coin-bridged-zed20/"
+        }
+    ]
+}
