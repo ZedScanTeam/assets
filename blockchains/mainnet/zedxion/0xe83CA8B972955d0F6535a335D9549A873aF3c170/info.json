@@ -1,1 +1,37 @@
-
+[
+  {
+    "type": "website",
+    "text": "https://zedscan.net/",
+    "url": "https://zedscan.net/token/0xe83CA8B972955d0F6535a335D9549A873aF3c170"
+  },
+  {
+    "type": "coinmarketcap",
+    "text": "CoinMarketCap",
+    "url": "https://coinmarketcap.com/currencies/usd-coin-bridged-zed20/"
+  },
+  {
+    "type": "Zeddex",
+    "text": "ZedDex",
+    "url": "https://www.zeddex.com/"
+  },
+  {
+    "type": "email",
+    "text": "E-mail",
+    "url": "support@zedscan.net"
+  },
+  {
+    "type": "Helpcenter",
+    "text": "Helpcenter",
+    "url": "https://zedxion.zendesk.com/hc/en-gb/categories/22833532469393-ZedScan-ZED20"
+  },
+  {
+    "type": "twitter",
+    "text": "Twitter",
+    "url": "https://twitter.com/zedxionc"
+  },
+  {
+    "type": "whitepaper",
+    "text": "Whitepaper",
+    "url": "https://docs.zedscan.net/general-1/network-details"
+  }
+]
