@@ -2,17 +2,17 @@
   {
     "type": "website",
     "text": "https://zedscan.net/",
-    "url": "https://zedscan.net/token/0xb78E2642b875928254cF50683D0589ca249f4efc"
+    "url": "https://zedscan.net/token/0xD67D8fC1d9a03851107Dc7EB423Dd597242aE649"
   },
   {
     "type": "coinmarketcap",
     "text": "CoinMarketCap",
-    "url": "https://coinmarketcap.com/currencies/tether-usd-bridged-zed20-usdt/"
+    "url": "https://coinmarketcap.com/currencies/iota/"
   },
   {
     "type": "coingecko",
     "text": "CoinGecko",
-    "url": "https://www.coingecko.com/en/coins/bridged-usdt-zedxion"
+    "url": "https://www.coingecko.com/en/coins/iota"
   },
   {
     "type": "Zeddex",
