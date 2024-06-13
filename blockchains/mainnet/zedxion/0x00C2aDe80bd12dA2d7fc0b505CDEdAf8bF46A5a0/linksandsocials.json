@@ -2,7 +2,7 @@
   {
     "type": "website",
     "text": "https://zedscan.net/",
-    "url": "https://zedscan.net/"
+    "url": "https://zedscan.net/address/0x00C2aDe80bd12dA2d7fc0b505CDEdAf8bF46A5a0"
   },
   {
     "type": "coinmarketcap",
@@ -12,12 +12,17 @@
   {
     "type": "coingecko",
     "text": "CoinGecko",
-    "url": "https://www.coingecko.com/"
+    "url": "https://www.coingecko.com/en/coins/tezos"
   },
   {
     "type": "email",
     "text": "E-mail",
-    "url": "exampleabc@gmail.com"
+    "url": "support.team@zedscan.net"
+  },
+  {
+    "type": "Helpcenter",
+    "text": "Helpcenter",
+    "url": "https://zedxion.zendesk.com/hc/en-gb/categories/22833532469393-ZedScan-ZED20"
   },
   {
     "type": "blog",
@@ -27,11 +32,11 @@
   {
     "type": "twitter",
     "text": "Twitter",
-    "url": "https://twitter.com/"
+    "url": "https://twitter.com/zedcexe"
   },
   {
     "type": "whitepaper",
     "text": "Whitepaper",
-    "url": "#"
+    "url": "https://zedxion.zendesk.com/hc/en-gb/categories/22833532469393-ZedScan-ZED20"
   }
 ]

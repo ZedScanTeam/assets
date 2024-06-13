@@ -7,22 +7,27 @@
   {
     "type": "coinmarketcap",
     "text": "CoinMarketCap",
-    "url": "https://coinmarketcap.com/currencies/usd-coin-bridged-zed20/"
+    "url": "https://coinmarketcap.com/currencies/usd-coin/"
   },
   {
-    "type": "Zeddex",
-    "text": "ZedDex",
-    "url": "https://www.zeddex.com/"
+    "type": "coingecko",
+    "text": "CoinGecko",
+    "url": "https://www.coingecko.com/en/coins/usdc"
   },
   {
     "type": "email",
     "text": "E-mail",
-    "url": "support@zedscan.net"
+    "url": "support.team@zedscan.net"
   },
   {
     "type": "Helpcenter",
     "text": "Helpcenter",
     "url": "https://zedxion.zendesk.com/hc/en-gb/categories/22833532469393-ZedScan-ZED20"
+  },
+  {
+    "type": "blog",
+    "text": "Blog",
+    "url": "#"
   },
   {
     "type": "twitter",

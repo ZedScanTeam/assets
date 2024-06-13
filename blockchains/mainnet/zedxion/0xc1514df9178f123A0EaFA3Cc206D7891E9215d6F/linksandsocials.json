@@ -2,17 +2,17 @@
   {
     "type": "website",
     "text": "https://zedscan.net/",
-    "url": "https://zedscan.net/token/0xb78E2642b875928254cF50683D0589ca249f4efc"
+    "url": "https://zedscan.net/token/0xc1514df9178f123A0EaFA3Cc206D7891E9215d6F"
   },
   {
     "type": "coinmarketcap",
     "text": "CoinMarketCap",
-    "url": "https://coinmarketcap.com/currencies/tether-usd-bridged-zed20-usdt/"
+    "url": "https://coinmarketcap.com/currencies/bitcoin-classic/"
   },
   {
     "type": "coingecko",
     "text": "CoinGecko",
-    "url": "https://www.coingecko.com/en/coins/bridged-usdt-zedxion"
+    "url": ""
   },
   {
     "type": "Zeddex",
