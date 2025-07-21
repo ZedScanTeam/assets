@@ -1,0 +1,12 @@
+{
+    "name": "Tala",
+    "website": "",
+    "description": "The 1OZT token is a gold-backed digital asset that can be redeemed 1:1 for one troy ounce of physical gold.",
+    "explorer": "https://bscscan.com/token/0x9Cac9837155A851e3d08639a40aE5bF18d968cd3",
+    "type": "BEP20",
+    "symbol": "1ozt",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9Cac9837155A851e3d08639a40aE5bF18d968cd3",
+    "links": []
+}
