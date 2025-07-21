@@ -8,5 +8,26 @@
     "decimals": 18,
     "status": "active",
     "id": "0x9Cac9837155A851e3d08639a40aE5bF18d968cd3",
-    "links": []
+    "links": [
+        {
+          "type": "website",
+          "text": "Telegram",
+          "url": "https://t.me/tala_token"
+        },
+        {
+          "type": "blog",
+          "text": "Blog",
+          "url": "https://www.instagram.com/tala_token"
+        },
+        {
+          "type": "twitter",
+          "text": "x.com",
+          "url": "https://x.com/talatoken"
+        },
+        {
+          "type": "whitepaper",
+          "text": "Whitepaper",
+          "url": "#"
+        }
+    ]
 }
