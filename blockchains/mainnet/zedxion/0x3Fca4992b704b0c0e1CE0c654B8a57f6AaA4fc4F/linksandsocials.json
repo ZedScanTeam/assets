@@ -1,0 +1,42 @@
+[
+  {
+    "type": "website",
+    "text": "https://zedscan.net/",
+    "url": "https://zedscan.net/token/0x3Fca4992b704b0c0e1CE0c654B8a57f6AaA4fc4F"
+  },
+  {
+    "type": "coinmarketcap",
+    "text": "CoinMarketCap",
+    "url": "-"
+  },
+  {
+    "type": "coingecko",
+    "text": "CoinGecko",
+    "url": "-"
+  },
+  {
+    "type": "email",
+    "text": "E-mail",
+    "url": "support.team@zedscan.net"
+  },
+  {
+    "type": "Helpcenter",
+    "text": "Helpcenter",
+    "url": "https://zedxion.zendesk.com/hc/en-gb/categories/22833532469393-ZedScan-ZED20"
+  },
+  {
+    "type": "blog",
+    "text": "Blog",
+    "url": "#"
+  },
+  {
+    "type": "twitter",
+    "text": "Twitter",
+    "url": "https://twitter.com/zedcexe"
+  },
+  {
+    "type": "whitepaper",
+    "text": "Whitepaper",
+    "url": "https://zedxion.zendesk.com/hc/en-gb/categories/22833532469393-ZedScan-ZED20"
+  }
+]
